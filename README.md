@@ -3,8 +3,6 @@
 [![cknoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=cknoll)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Knowledge representation and applications of it.
   - (especially in the domains (partly overlapping) of *engineering* and *sustainability*)
 - 👯 I’m looking to collaborate on: [Semantic-related Python projects](https://pysemtec.org/), interesting domain ontologies, and – of course – all of my (forked) repos.
